@@ -1,0 +1,21 @@
+.cart-summary-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.checkout-btn {
+  color: white;
+  background-color: #0b69ff;
+  padding: 10px;
+  font-size: 600;
+  border-width: 0px;
+  align-self: stretch;
+  border-radius: 4px;
+}
+
+.end-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
